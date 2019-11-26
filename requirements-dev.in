@@ -1,0 +1,6 @@
+-r requirements.in
+coverage
+mock
+pytest
+pytest-cov
+

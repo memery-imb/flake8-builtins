@@ -1,0 +1,7 @@
+configparser
+enum34
+flake8
+mccabe
+pycodestyle
+pyflakes
+pip-tools
